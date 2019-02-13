@@ -3,6 +3,10 @@
   "name": "Pastel Enhancer",
   "version": "0.0.1",
   "description": "A Chrome Extension aimed at enhancing Pastel's search box",
+  "icons": { 
+    "16":"images/icon-32.png", 
+    "48":"images/icon-64.png", 
+    "128":"images/icon-128.png" },
   "background": {
     "scripts": ["background.js"],
     "persistent": true
