@@ -1,0 +1,23 @@
+.search-tunnels {
+	max-width: 100%!important;
+}
+.search-tunnels span.icon {
+    left: 10px!important;
+    top: 18px!important;
+}
+.search-tunnels input.form-control {
+	color: #000;
+    background-color: #fff;
+    border-radius: 3px;
+    box-shadow: 0 3px 6px 0 rgba(0,0,0,0.1), 0 0 2px 0 rgba(0,0,0,0.1);
+    border: solid 1px #bcc2ce;
+    outline: none;
+    height: 50px;
+    width: 100%;
+	padding-left: 40px!important;
+	padding-right: 20%;
+}
+
+.filters .dropdown.btn-group {
+	top: 7px!important; 
+}
